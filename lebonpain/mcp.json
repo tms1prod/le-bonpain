@@ -1,0 +1,16 @@
+
+  "servers": {
+    "cloudflare-api": {
+      "type": "http",
+      "url": "https://mcp.cloudflare.com/mcp"
+    }
+  }
+}
+{
+  "servers": {
+    "cloudflare-api": {
+      "type": "http",
+      "url": "https://mcp.cloudflare.com/mcp"
+    }
+  }
+}
